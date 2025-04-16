@@ -3,7 +3,7 @@
 - 📘 Desenvolvimento Web
 - 🤖 Técnico de informática.
 - 🎓 Cursando ADS na UERJ Zona Oeste, 1° período.
-- 👌 Estou apredendo Python.
+  
 
 <div style="display: inline_block">
  <img align="center" alt="kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
