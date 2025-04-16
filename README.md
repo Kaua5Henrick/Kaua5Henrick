@@ -1,6 +1,6 @@
 ## Olá eu sou o Kaua5Henrick 
 
-- 📘 Estudo desenvolvimento back-end.
+- 📘 Desenvolvimento Web
 - 🤖 Técnico de informática.
 - 🎓 Cursando ADS na UERJ Zona Oeste, 1° período.
 - 👌 Estou apredendo Python.
