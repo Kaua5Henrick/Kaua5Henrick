@@ -1,15 +1,15 @@
 ## Olá eu sou o Kaua5Henrick 
 
-- 📘 Desenvolvimento Web
-- 🤖 Técnico de informática.
-- 🎓 Cursando ADS na UERJ Zona Oeste, 1° período.
+- 📘 Software Developer
+- 🤖 Técnico de informática - Estola Técnica Sandra Silva.
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas - UERJ ZO.
   
 
 <div style="display: inline_block">
  <img align="center" alt="kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="kaua-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="kaua-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="kaua-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+ 
 
  </div>
 
