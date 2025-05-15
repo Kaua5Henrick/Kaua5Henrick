@@ -47,8 +47,8 @@ Chamo-me Kauã Henrique, tenho 21 anos e sou natural do Rio de Janeiro – RJ. C
  
 
 ### 📱 Contato
-  <a href ="mailton:kauahenrick87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/kauã-henrique-06ba47212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kauahenrick87@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/kauã-henrique-06ba47212)
 
 <br><br>
 
