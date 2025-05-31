@@ -1,5 +1,5 @@
 ## Kauã Henrick 
-**`Software Developer`**
+**`Desenvolvedor back-end`**
 
 Chamo-me Kauã Henrique, tenho 21 anos e sou natural do Rio de Janeiro – RJ. Concluí o ensino médio em 2022 e, entre 2024 e 2025, realizei o curso técnico em Informática pela Escola Técnica Sandra Silva. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UERJ – Zona Oeste. Sou um entusiasta da tecnologia e busco, diariamente, adquirir novos conhecimentos na área.
 
