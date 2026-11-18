@@ -50,6 +50,17 @@ Chamo-me Kauã Henrique, tenho 21 anos e sou natural do Rio de Janeiro – RJ. C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
+<img
+    align="left"
+    alt="ITIL 4"
+    title="ITIL 4 Foundation"
+    width="30px"
+    style="padding-right: 10px;"
+    src="./assets/itil4.png"
+/>
+
  
 <br><br>
 
