@@ -1,7 +1,7 @@
 ## Kauã Henrick 
 **`Desenvolvedor Back-End`**
 
-Chamo-me Kauã Henrique, tenho 22 anos e sou natural do Rio de Janeiro – RJ. Concluí o ensino médio em 2022 e, entre 2024 e 2025, realizei o curso técnico em Informática pela Escola Técnica Sandra Silva. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UERJ – Zona Oeste. Trabalho como  Auxiliar de informática realizando atividades como suporte, automação de processos, gerenciamento de ativos e além disso na capacitação e gestão de jovem aprendiz. No campo de estudos atualmente trilho Rede de computadores, segurança da informção, programação e sistemas operacionais, mirando Cibersegurança.
+Chamo-me Kauã Henrique, tenho 22 anos e sou natural do Rio de Janeiro – RJ. Concluí o ensino médio em 2022 e, entre 2024 e 2025, realizei o curso técnico em Informática pela Escola Técnica Sandra Silva. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UERJ – Zona Oeste. Trabalho como  Auxiliar de informática realizando atividades como suporte, automação de processos, gerenciamento de ativos e além disso na capacitação e gestão de jovem aprendiz. O campo de estudos atualmente trilho Rede de computadores, segurança da informção, programação e sistemas operacionais, mirando Cibersegurança.
 
 ---
 
